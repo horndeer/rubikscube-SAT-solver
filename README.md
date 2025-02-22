@@ -14,6 +14,8 @@ cd rubikscube-SAT-solver
 pip install -r requirements.txt
 ```
 
+Dé-commenter le chemin du solveur correspondant à votre OS
+
 ## Utilisation
 
 Le projet est divisé en 2 parties, une première partie pour résoudre le rubikscube 2x2x2 pour commencer avec plus de simplicité
