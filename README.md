@@ -6,7 +6,7 @@ Le but du projet est de modéliser la résolution rubikscube sous forme de logiq
 
 ## Installation
 
-Pour installer le projet, il suffit de cloner le dépôt git et d'insaller les dépendances.
+Pour installer le projet, il suffit de cloner le dépôt git et d'installer les dépendances.
 
 ```bash
 git clone
@@ -14,15 +14,16 @@ cd rubikscube-SAT-solver
 pip install -r requirements.txt
 ```
 
-Dé-commenter le chemin du solveur correspondant à votre OS
+Dé-commenter le chemin du solveur correspondant à votre OS dans la première cellule du notebook et commenter les autres. Cela permettra d'utiliser le bon solveur SAT Gophersat.
+
+Lien vers gopherSAT github : <https://github.com/crillab/gophersat>
 
 ## Utilisation
 
-Le projet est divisé en 2 parties, une première partie pour résoudre le rubikscube 2x2x2 pour commencer avec plus de simplicité
+Le projet est divisé en 2 parties, une première partie pour résoudre le rubikscube 2x2x2 pour commencer méthodiquement à petite échelle.
 
 fichier `rubikscube_2x2.ipynb`:
 
 Et une 2ème partie de mise à l'échelle pour le rubikscube 3x3x3.
 
 fichier `rubikscube_3x3.ipynb`:
-
