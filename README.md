@@ -20,10 +20,10 @@ Lien vers gopherSAT github : <https://github.com/crillab/gophersat>
 
 ## Utilisation
 
-Le projet est divisé en 2 parties, une première partie pour résoudre le rubikscube 2x2x2 pour commencer méthodiquement à petite échelle.
+Le projet est divisé en 2 parties, une première partie pour résoudre le rubikscube 2x2x2 pour commencer méthodiquement à petite échelle. On y retrouvera la méthode de réduction en problème SAT expliquée dans les markdowns du notebook.
 
 fichier `rubikscube_2x2.ipynb`:
 
-Et une 2ème partie de mise à l'échelle pour le rubikscube 3x3x3.
+Et une 2ème partie de mise à l'échelle pour le rubikscube 3x3x3. On retrouvera des explications plus succinctes (renvoyant au notebook 2x2 pour les détails) et des fonctions pour résoudre le rubikscube 3x3x3.
 
 fichier `rubikscube_3x3.ipynb`:
