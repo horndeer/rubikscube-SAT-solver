@@ -1,4 +1,4 @@
-# rubikscube-SAT-solver
+# rubikscube-SAT-solver - Rendu Final CR - Gaetan Jacquemin & Ilann AMIAUD--PLACHY
 
 Projet de résolution de Rubik's Cube en utilisant un solveur SAT.
 
